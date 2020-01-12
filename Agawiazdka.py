@@ -113,7 +113,7 @@ step = 0
 mapa = []
 finalPath = []
 path = []
-plik = open("grid3.txt", "r")
+plik = open("grid.txt", "r")
 tekst = plik.read()
 plik.close()
 
